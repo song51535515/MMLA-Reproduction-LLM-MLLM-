@@ -914,6 +914,7 @@ python /root/autodl-tmp/workspace/MMLA/MLLM/IT/summarize_it_all9.py
 ## 4. Summary report
 Run 9 tasks according to the same logic, then the final results should be like:
 **Qwen2-VL-7B**
+
 ![输入图片说明](/imgs/mllm.jpg)
 
 ### 4.1 9-task Average ACC Comparison

@@ -379,7 +379,7 @@ python LLM/IT/eval_12task_results.py \
 ## 4. Summary report
 Run 12 tasks according to the same logic, then use the same method to perform Zero shot/SFT (Maskloss)/IT (Maskloss) pipeline on Llama3-8B and summarize the results, the final results should be like:
 **Qwen2-1.5B**
-![输入图片说明](/imgs/Qwen 1.5-llm.jpg)
+![输入图片说明](/imgs/Qwen1.5-llm.jpg)
 
 **LLaMA-3-8B**
 ![输入图片说明](/imgs/llama3-llm.jpg)
